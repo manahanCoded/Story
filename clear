@@ -1,0 +1,24 @@
+[33mcommit a6ac5d5fde316f95c2d47ab8b566d4abbab6f461[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: f070304 c8c513f
+Author: manahanCoded <manahandionell1@gmail.com>
+Date:   Fri Dec 29 09:45:16 2023 +0800
+
+    Merge branch 'giga-plot'
+
+[33mcommit f070304c517b3e0c06ce27c8d75d66579b05e323[m
+Author: manahanCoded <manahandionell1@gmail.com>
+Date:   Fri Dec 29 09:37:56 2023 +0800
+
+    adding chapter4.html
+
+[33mcommit c8c513f3c408239db8d04b86915854eb923800f0[m[33m ([m[1;32mgiga-plot[m[33m)[m
+Author: manahanCoded <manahandionell1@gmail.com>
+Date:   Fri Dec 29 09:33:30 2023 +0800
+
+    modify index.html chapter1
+
+[33mcommit c6753437c325b1533d71868be24c5c3c620f0fba[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: manahanCoded <manahandionell1@gmail.com>
+Date:   Fri Dec 29 09:25:48 2023 +0800
+
+    Complited Chapter1
